@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Room-homepage-master/static/css/main.cdc6cb3e.css",
+    "main.js": "/Room-homepage-master/static/js/main.fc1df535.js",
+    "static/media/bootstrap.min.css.map": "/Room-homepage-master/static/media/bootstrap.min.css.0a4a7ef5e3b1cdaeab89.map",
+    "static/media/bootstrap.bundle.js.map": "/Room-homepage-master/static/media/bootstrap.bundle.js.ab5044844245bbcaed72.map",
+    "static/media/desktop-image-hero-1.jpg": "/Room-homepage-master/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/Room-homepage-master/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/Room-homepage-master/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
+    "static/media/mobile-image-hero-1.jpg": "/Room-homepage-master/static/media/mobile-image-hero-1.5de3d1472db703fb2f8a.jpg",
+    "static/media/mobile-image-hero-2.jpg": "/Room-homepage-master/static/media/mobile-image-hero-2.51db290a00388a5a0bea.jpg",
+    "static/media/image-about-dark.jpg": "/Room-homepage-master/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/mobile-image-hero-3.jpg": "/Room-homepage-master/static/media/mobile-image-hero-3.601d0f37f7ff5e62008c.jpg",
+    "static/media/logo.svg": "/Room-homepage-master/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
+    "index.html": "/Room-homepage-master/index.html",
+    "static/media/icon-arrow.svg": "/Room-homepage-master/static/media/icon-arrow.84087786c5e572d7f27f2672642badd5.svg",
+    "main.cdc6cb3e.css.map": "/Room-homepage-master/static/css/main.cdc6cb3e.css.map",
+    "main.fc1df535.js.map": "/Room-homepage-master/static/js/main.fc1df535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdc6cb3e.css",
+    "static/js/main.fc1df535.js"
+  ]
+}
